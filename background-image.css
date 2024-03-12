@@ -1,0 +1,9 @@
+div{
+    width: 400px;
+    height: 200px;
+    background-color: greenyellow;
+    margin: 10px auto;
+    background-image: url("Picsart_23-06-15_03-09-44-084.jpg");
+    background-size: cover;
+    color: black;
+}

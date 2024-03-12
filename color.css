@@ -1,0 +1,14 @@
+h1{
+    color: red;  /*named color system*/
+    background-color: #808080;     /* hexacode color system */
+}
+
+p{
+    color: blue;
+    background-color: rgb(255,160,125);  /* rgb color system*/
+}
+
+button{
+    color: green;
+    background-color: yellow;
+}
